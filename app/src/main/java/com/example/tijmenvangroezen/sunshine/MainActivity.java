@@ -14,7 +14,7 @@ public class MainActivity extends AppCompatActivity implements ForecastFragment.
     private static final String DETAILFRAGMENT_TAG = "DFTAG";
 
     private boolean mTwoPane;
-    private String mLocation;
+    private String mLocation
 
     @Override
     protected void onCreate(Bundle savedInstanceState)
