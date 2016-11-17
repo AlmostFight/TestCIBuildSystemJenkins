@@ -3,6 +3,7 @@ jdk: oraclejdk8
 
 android:
   components:
+    - android-24
     - build-tools-24.0.2
 
 before_install:
